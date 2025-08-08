@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Tasks
 
 This repository contains two Python programs:
@@ -24,7 +23,3 @@ Run scripts using:
 ```bash
 python Assignment1mathop.py
 python Assignment1Greeting.py
-=======
-# python-tasks-from-tutedude
-This repo contains Task 1 and Task 2 Python scripts
->>>>>>> 4ba1d09c6d98e8c3b88f66cc4295389f41d67ba6
